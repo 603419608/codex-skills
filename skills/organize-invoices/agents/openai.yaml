@@ -1,0 +1,4 @@
+interface:
+  display_name: "整理发票"
+  short_description: "整理文件夹中的中文电子发票 PDF，支持默认或自定义字段、PDF 命名、金额汇总和长编号文本保护。"
+  default_prompt: "帮我整理一下这个文件夹路径下的发票："
