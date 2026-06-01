@@ -1,6 +1,6 @@
 # codex-skills
 
-个人可分享的 Codex skills 仓库。每个 skill 都是一个独立文件夹，可以安装到 Codex 的 skills 目录中使用。
+分享一些 Codex skills 仓库。每个 skill 都是一个独立文件夹，可以安装到 Codex 的 skills 目录中使用。
 
 ## Skills
 
